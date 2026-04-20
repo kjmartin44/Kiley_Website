@@ -1,8 +1,10 @@
 project:
   type: website
+  output-dir: docs/
 
 website:
   title: "Kiley Martin"
+  
   navbar:
     left:
       - href: index.qmd
