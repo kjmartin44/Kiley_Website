@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Kiley_Website"
+  title: "Kiley Martin"
   navbar:
     left:
       - href: index.qmd

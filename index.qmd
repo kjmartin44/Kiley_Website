@@ -1,11 +1,18 @@
 ---
-title: "Kiley_Website"
+title: "Kiley Martin"
+image: media/IMG_2393.JPG
+toc: false
+about:
+  template: jolla
+  image-width: 17em
 ---
 
-This is a Quarto website.
+PhD Candidate at the Tufts University Neuroscience & Neurogenetics Program at The Jackson Laboratory
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Email: Kiley.Martin\@jax.org
 
-```{r}
-1 + 1
-```
+[Joy Lab Website](https://www.mjoylab.com)
+
+[Linkedin](www.linkedin.com/in/kiley-martin-400596191)
+
+[Day In The Life](https://youtu.be/e1-hWnhrljs?si=w7iaMXKYkZ_bXUTF)
