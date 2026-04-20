@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: media/slice.TIF
+image: media/slice2.TIF
 toc: false
 about:
   template: jolla
