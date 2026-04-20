@@ -1,9 +1,8 @@
 ---
 title: "About"
+image: media/slice.TIF
+toc: false
+about:
+  template: jolla
+  image-width: 17em
 ---
-
-About this site
-
-```{r}
-1 + 1
-```
